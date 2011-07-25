@@ -1,10 +1,8 @@
-Module  : Speller Pages
-Version : 1.0.6
+Module  : @TITLE@
+Version : @VERSION@
 Author  : Maurice Makaay
 
-Spellchecking based on aspell and Speller Pages v0.5.1. This module will add
-a "Check spelling" button to the editor, which users can use to have
-their message spell checked.
+@DESCRIPTION@
 
 For more information on Speller Pages, see http://spellerpages.sourceforge.net
 
@@ -21,13 +19,13 @@ Install:
 
 - Unpack the Speller Pages module archive;
 
-- Move the directory "spellerpages" to the directory "mods"
+- Move the directory "@MODULE_ID@" to the directory "mods"
   within your Phorum installation;
 
 - Login as administrator in Phorum's administrative interface and
   go to the "Modules" section;
 
-- Enable the module "Speller Pages".
+- Enable the module "@TITLE@".
 
 
 Localization:

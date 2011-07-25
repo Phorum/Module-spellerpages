@@ -1,5 +1,5 @@
 title: Speller Pages
-desc: Spellchecking based on aspell and Speller Pages (http://spellerpages.sourceforge.net)
+desc: Spellchecking based on aspell and Speller Pages (http://spellerpages.sourceforge.net). This module will add a "Check spelling" button to the editor, which users can use to have their message spell checked.
 version: 1.0.6
 category: posting
 
